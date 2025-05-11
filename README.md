@@ -1,6 +1,6 @@
 # Bright-Coffee-Shop-Sales-Analysis
-�
-� Bright Coffee Shop Sales Analysis (BRIGHTLIGHT) 
+
+ ☕Bright Coffee Shop Sales Analysis (BRIGHTLIGHT) 
 Purpose: Business Insights for a New CEO using Historical Transactional Data from 
 Bright Coffee Shop 
 Due Date: 11 May 2025, 23:59 
