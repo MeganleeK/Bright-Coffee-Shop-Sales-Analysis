@@ -3,8 +3,8 @@
 Purpose: Business Insights for a New CEO using Historical Transactional Data from 
 Bright Coffee Shop 
 
-1. INTRODUCTION & INSTRUCTIONS
-1.1 INTRODUCTION 
+
+1. INTRODUCTION 
 You have been provided with a dataset titled “Bright Coffee Shop Sales”, which captures 
 daily transactional information from a coffee shop. 
 The business has recently appointed a new CEO whose mission is to grow the company’s 
