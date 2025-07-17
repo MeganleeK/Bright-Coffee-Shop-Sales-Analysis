@@ -1,22 +1,51 @@
-☕Bright Coffee Shop Sales Analysis (BRIGHTLIGHT) 
+# ☕ Bright Coffee Shop Sales Analysis (BRIGHTLIGHT)
 
-Purpose: Business Insights for a New CEO using Historical Transactional Data from 
-Bright Coffee Shop 
+## 📌 Purpose  
+Provide **business insights** for the newly appointed CEO by analyzing historical transactional data from **Bright Coffee Shop**. This analysis uncovers patterns that can help grow **revenue** and improve **product performance**.
 
+---
 
-1. INTRODUCTION 
-You have been provided with a dataset titled “Bright Coffee Shop Sales”, which captures 
-daily transactional information from a coffee shop. 
-The business has recently appointed a new CEO whose mission is to grow the company’s 
-revenue and improve product performance. Your role, as a Junior Data Analyst, is to extract 
-actionable insights from historical data and prepare a presentation to assist the CEO in 
-decision-making.
+## 📖 Introduction  
+This project uses a dataset titled **“Bright Coffee Shop Sales”**, which contains **daily transactional data** from the coffee shop.  
+As a **Junior Data Analyst**, my role was to extract **actionable insights** to support the CEO’s decision-making.
 
-2. OBJECTIVE 
-Use your analytics, SQL, and data visualization skills to help Bright Coffee Shop 
-understand: 
-• Which products generate the most revenue 
-•  What time of day the store performs best 
-• Sales trends across products and time intervals 
-• Recommendations for improving sales performance
+The analysis was conducted using:  
+- 🐍 **Python** (Google Colab) for data cleaning, exploration, and analysis  
+- 🗂️ **SQL** (Snowflake) for data extraction and advanced queries  
+- 📊 **Visualizations** to present clear, compelling insights
 
+---
+
+## 🎯 Objectives  
+The main questions addressed in this project:  
+- Which products generate the **most revenue**?  
+- What **time of day** does the store perform best?  
+- What are the **sales trends** across products and time intervals?  
+- What **recommendations** can help improve sales performance?
+
+---
+
+## ✅ Tools & Technologies  
+- **Python** (Google Colab)  
+- **SQL** (Snowflake)  
+- **Data Visualization Tools**
+
+---
+
+## 📌 Deliverables  
+This repository includes:  
+- Cleaned dataset  
+- Python notebooks (Google Colab)  
+- SQL scripts (Snowflake)  
+- Visualizations
+- Key insights & recommendations for the CEO
+
+---
+
+## 📝 Key Insights & Recommendations  
+📊 Detailed insights and suggestions are shared in the notebooks and final presentation slides.
+
+---
+
+**Thank you for checking out this project!**  
+Feel free to reach out for any questions or feedback.
